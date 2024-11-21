@@ -54,6 +54,7 @@ int main()
         }
     }
 
+    // Output solution (280)
     std::cout << "Floor has been calculated... Santa needs to go to floor: ";
     std::cout << floorTracker;
 
