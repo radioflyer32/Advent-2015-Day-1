@@ -60,11 +60,11 @@ int main()
         * if loop which checks whether santa has already been into the basement, then notes on what step/position he did for the first time
         * ############
         */
-        if (hasBeenToBasement != True)
+        if (hasBeenToBasement != true)
         {
             if (floorTracker < 0)
             {
-                hasBeenToBasement = True;
+                hasBeenToBasement = true;
                 std::cout << "Santa first went into the basement at position: ";
                 std::cout << i + 1;
                 std::cout << "\n";
