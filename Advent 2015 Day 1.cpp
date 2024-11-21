@@ -56,7 +56,7 @@ int main()
 
         /* 
         * ############
-        * added for day two challenge
+        * added for day one, part 2 challenge
         * if loop which checks whether santa has already been into the basement, then notes on what step/position he did for the first time
         * ############
         */
